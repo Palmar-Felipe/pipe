@@ -16,7 +16,7 @@ boton.addEventListener("click", function (e) {
         enviar.textContent = "El campo no puede estar vacío.";
         return;
     }
-   
+    const number = parseInt(numberValor);
     // Validar número válido y mayor a cero
     if (isNaN(number)) {
         enviar.textContent = "Por favor ingresa un número válido.";
