@@ -19,7 +19,7 @@ PIPE/
 
 ## Instructions
 como haceder al proyecto para haceder al proyecto seguir los siguientes pasos
-1.  git clone
+1.  git clone https://github.com/Palmar-Felipe/pipe.git
 2. PIPE
 3.  java-script
 4. styles.css
@@ -31,3 +31,4 @@ como haceder al proyecto para haceder al proyecto seguir los siguientes pasos
 - **Email:** pipepalmar@hotmail.com
 - **ID:** 1119392593
 - **Training:** Module 3 JavaScript, Week 1.
+- **Link:**  https://palmar-felipe.github.io/pipe/
