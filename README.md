@@ -3,7 +3,7 @@
 
 
 ## Description
-Este proyecto tiene como finalidad hacer un sistema interactivo para los usuarios que lo utilicen. fue creada con JAVASCRIPT, HTML Y CSS, puede interacturar en las casillas, esta pagina tiene solo una seccion:
+The purpose of this project is to create an interactive system for its users. It was created with Javascript, HTML, and CSS. You can interact with the boxes. This page has only one section:
 
 ## Repository Structure
 ```
@@ -18,7 +18,7 @@ PIPE/
 ```
 
 ## Instructions
-como haceder al proyecto para haceder al proyecto seguir los siguientes pasos
+How to make the project to make the project follow the following steps
 1.  git clone https://github.com/Palmar-Felipe/pipe.git
 2. PIPE
 3.  java-script
