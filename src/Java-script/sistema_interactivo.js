@@ -1,11 +1,13 @@
 
-/*en esta seccion declaramos variables*/ 
+
+
+/*In this section we declare variables*/ 
 const nombre = document.getElementById("name");
 const numberInput = document.getElementById("number");
 const enviar = document.getElementById("answer");
 const boton = document.getElementById("enviar");
 
-/*al hacer click en enviar se cumplen estas condiciones  */
+/*By clicking send these conditions are met*/
 boton.addEventListener("click", function (e) {
     e.preventDefault(); // Evita que el formulario se recargue
     
@@ -17,7 +19,7 @@ boton.addEventListener("click", function (e) {
         return;
     }
     const number = parseInt(numberValor);
-    // Validar número válido y mayor a cero
+    // Validate valid number and greater than zero
     if (isNaN(number)) {
         enviar.textContent = "Por favor ingresa un número válido.";
         return;
@@ -38,5 +40,3 @@ boton.addEventListener("click", function (e) {
   
 
 });
-
-
